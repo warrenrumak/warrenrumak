@@ -1,4 +1,8 @@
-### Hi there 👋
+### Warren Rumak
+
+LinkedIn profile: https://www.linkedin.com/in/warrenrumak/
+
+I've been a git and GitHub user since 2009 but none of my work is here on the public GitHub.
 
 <!--
 **warrenrumak/warrenrumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
